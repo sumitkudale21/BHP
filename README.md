@@ -19,9 +19,19 @@ The application is built using Flask and has a single-page layout. It allows use
 - **Web Server**: NGINX (for deployment)
 - **Machine Learning**: Regression models for predicting house prices
 
-## Setup Instructions
+## Data Sources
 
-1. Clone the repository:
+The application utilizes datasets related to house prices. Data preprocessing details are included in the project repository.
 
-   ```bash
-   git clone <repository_url>
+## Model Training
+
+The predictive models employed in the application are trained using machine learning algorithms. Model training specifics can be located in the `model_training.ipynb` notebook.
+
+## Author
+
+[sumit kudale]
+
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
